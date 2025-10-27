@@ -130,7 +130,7 @@ The best performance was achieved with 8 workers, providing a 3.10x speedup over
 
 ## Report
 
-Detailed analysis available in `report.txt` including:
+Detailed analysis available in `report.pdf` including:
 - Performance comparison tables
 - Bottleneck analysis
 - Technical implementation details
